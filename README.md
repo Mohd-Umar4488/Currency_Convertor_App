@@ -1,6 +1,4 @@
 
-Sure, here's a description you can use for your currency converter repository:
-
 Currency Converter
 This repository contains a simple yet effective currency converter web application built using HTML, CSS, and JavaScript. With this currency converter, users can easily convert between different currencies, making it a handy tool for travellers, investors, and anyone dealing with international transactions.
 
